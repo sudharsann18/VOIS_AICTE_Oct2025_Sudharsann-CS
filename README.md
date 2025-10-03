@@ -7,7 +7,7 @@ The project focuses on analyzing Airbnb hotel booking data to identify patterns,
 
 ## 👤 Student Details
 - **Name**: Sudharsann CS  
-- **AICTE Internship ID**: [Your Internship ID]  
+- **AICTE Internship ID**: INTERNSHIP_17546440516895be537820f 
 - **Project Title**: Airbnb Hotel Booking Analysis  
 - **Repository Name**: VOIS_AICTE_Oct2025_Sudharsann-CS  
 
