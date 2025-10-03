@@ -1,2 +1,9 @@
-# VOIS_AICTE_Oct2025_Sudharsann-CS
-Airbnb Hotel Booking Analysis — AICTE VOIS Internship Project (Oct 2025)”
+# Airbnb Hotel Booking Analysis — AICTE VOIS Internship
+
+This repository contains the project work for AICTE VOIS Internship (Oct 2025).
+
+## Structure
+- `data/raw/` : Original dataset (Excel file)
+- `notebooks/` : Jupyter notebooks (EDA & analysis)
+- `src/` : Source code files
+
